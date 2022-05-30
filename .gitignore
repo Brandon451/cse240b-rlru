@@ -37,4 +37,4 @@ bin/*
 
 inc/*
 
-Makefile
+./Makefile
